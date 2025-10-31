@@ -1,0 +1,26 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Team \"SKY\":",
+  "source": "script.js",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel ./index.html",
+    "build": "parcel build ./index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sadullah-TANRIKULU/weather-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sadullah-TANRIKULU/weather-app/issues"
+  },
+  "homepage": "https://github.com/Sadullah-TANRIKULU/weather-app#readme",
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  }
+}
